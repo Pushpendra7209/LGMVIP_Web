@@ -1,0 +1,45 @@
+html,body{
+    height: 100%;
+    width: 100%;
+    background-color: thistle;
+}
+
+.button{
+    width: 66px;
+    padding: 20px;
+    margin: 0 3px;
+    border: 2px solid black;
+    border-radius: 50%;
+    cursor: pointer;
+    background-color: rgb(67, 60, 60);
+    color: aliceblue;
+    font-size: 16px;
+}
+.button:hover{
+    background-color: rgb(218, 240, 240);
+    color: black;
+
+}
+.button:active{
+    background-color: rgb(169, 240, 169);
+}
+.row{
+    margin: 6px;
+}
+
+.row input{
+    width: 214px;
+    margin: 0;
+    padding: 22px 38px;
+    border: 2px solid black;
+    border-radius: 9px;
+    font-size: 13px;
+}
+.b{
+    font-size: 20px;
+    background-color: rgb(249, 160, 7);
+}
+
+.z{
+    background-color: rgb(185, 177, 177);
+}
